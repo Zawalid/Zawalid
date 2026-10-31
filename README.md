@@ -41,6 +41,4 @@ More at [zawalid.com/projects](https://www.zawalid.com/projects).
 
 ## Contact
 
-Open to internships and junior roles in full stack, AI or DevOps, in Morocco or remote.
-
 [zawalid.com](https://www.zawalid.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/zakan-walid/) &nbsp;/&nbsp; [walid.zakan@gmail.com](mailto:walid.zakan@gmail.com)

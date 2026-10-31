@@ -5,7 +5,6 @@
 .c0{fill:var(--l0)}.c1{fill:var(--l1)}.c2{fill:var(--l2)}.c3{fill:var(--l3)}.c4{fill:var(--l4)}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}.cur{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}</style>
 <text x="0" y="28" class="jb faint" style="font-size:11px;letter-spacing:.1em">RABAT, MOROCCO &#183; 34.02&#176;N 6.84&#176;W</text>
-<circle cx="650" cy="24" r="3.5" class="acc"/><text x="888" y="28" class="in mute" style="font-size:13px;text-anchor:end">Open to internships and junior roles</text>
 <line x1="0" y1="44" x2="888" y2="44" class="rl"/>
 <text x="-4" y="140" class="is ink" style="font-size:104px;letter-spacing:-2.5px">Walid <tspan class="isi">Zakan</tspan></text>
 <text x="0" y="186" class="in ink" style="font-size:24px;font-weight:500;letter-spacing:-.3px">Full stack and DevOps developer.</text>

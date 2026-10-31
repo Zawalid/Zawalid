@@ -7,7 +7,6 @@ const b64 = f => readFileSync(path.join(here, f)).toString('base64');
 // ---------- masthead
 export const masthead = svg(290, 'Walid Zakan, full stack and DevOps developer, Rabat, Morocco', `
 ${t(0, 28, 'RABAT, MOROCCO &#183; 34.02&#176;N 6.84&#176;W', 'jb faint', 11, 'letter-spacing:.1em')}
-<circle cx="${W - 238}" cy="24" r="3.5" class="acc"/>${t(W, 28, 'Open to internships and junior roles', 'in mute', 13, 'text-anchor:end')}
 ${line(0, 44, W, 44)}
 <text x="-4" y="140" class="is ink" style="font-size:104px;letter-spacing:-2.5px">Walid <tspan class="isi">Zakan</tspan></text>
 ${t(0, 186, 'Full stack and DevOps developer.', 'in ink', 24, 'font-weight:500;letter-spacing:-.3px')}
