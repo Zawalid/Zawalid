@@ -1,4 +1,4 @@
-<img src="assets/masthead.svg" width="100%" alt="Walid Zakan, full stack and DevOps developer, Rabat, Morocco">
+<img src="assets/masthead.svg?v=2" width="100%" alt="Walid Zakan, full stack and DevOps developer, Rabat, Morocco">
 
 <img src="assets/numbers.svg" width="100%" alt="GitHub activity numbers, updated daily, and production numbers">
 
