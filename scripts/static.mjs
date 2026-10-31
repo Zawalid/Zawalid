@@ -20,7 +20,7 @@ const rows = [
   { n: '02', name: 'Lopper', tag: 'Git cleanup for the Mac', d: ['Finds merged branches and leftover agent worktrees,', 'shows why each is safe, and undoes for 30 days.'], ics: ['swift', 'git', 'apple'], meta: 'OPEN SOURCE', img: 'lopper.jpg' },
   { n: '03', name: 'FormaTeX', tag: 'LaTeX to PDF, as an editor and an API', d: ['Browser editor, REST API and MCP server. Smart Compile', 'repairs the LaTeX errors that language models write.'], ics: ['nextdotjs', 'postgresql', 'redis', 'docker', 'modelcontextprotocol'], meta: '1,200+ USERS', img: 'formatex.jpg' },
   { n: '04', name: 'TekCircle', tag: 'B2B IT talent marketplace', d: ['Offer to invoice for freelancers, firms and clients: contracts,', 'activity reports, AI matching and natural-language search.'], ics: ['reactrouter', 'express', 'mysql', 'socketdotio', 'typescript'], meta: 'PRIVATE WORK &#183; 400+ ROUTES', wire: true },
-  { n: '05', name: 'Finareo', tag: 'AI-assisted financial audit', d: ['Document ingestion, ERP connectors, 200+ audit rules', 'and an assistant that checks every figure it states.'], ics: ['django', 'postgresql', 'redis', 'temporal', 'qdrant'], meta: 'PRIVATE WORK &#183; 200+ RULES', wire: true },
+  { n: '05', name: 'Finareo', tag: 'AI-assisted financial audit', d: ['AI anomaly detection (200+ rules), the Nexo CFO copilot,', 'ERP integrations, and market benchmarking with alerts.'], ics: ['django', 'postgresql', 'redis', 'temporal', 'qdrant'], meta: 'PRIVATE WORK &#183; 200+ RULES', wire: true },
 ];
 function wire(x, y, w, h) {
   return `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="7" class="tint"/><rect x="${x + .5}" y="${y + .5}" width="${w - 1}" height="${h - 1}" rx="6.5" class="rs"/>
