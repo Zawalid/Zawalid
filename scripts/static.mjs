@@ -12,15 +12,16 @@ ${line(0, 44, W, 44)}
 ${t(0, 186, 'Full stack and DevOps developer.', 'in ink', 24, 'font-weight:500;letter-spacing:-.3px')}
 ${t(0, 214, 'Web platforms, AI features, and the infrastructure under them.', 'in mute', 16)}<rect class="acc cur" x="480" y="201" width="8" height="16"/>
 ${line(0, 236, W, 236)}
-${[['FOCUS', 'Web platforms, AI, infrastructure'], ['STACK', 'TypeScript, Python, Docker'], ['NOW', 'Apropos and Lopper'], ['SITE', 'zawalid.com']].map((c, i) => t(i * 222, 256, c[0], 'jb faint', 10, 'letter-spacing:.12em') + t(i * 222, 276, c[1], 'in ink', 13.5)).join('')}
+${[['FOCUS', 'Web platforms, AI, infrastructure'], ['STACK', 'TypeScript, Python, Docker'], ['NOW', 'Rimline, Lopper and Apropos'], ['SITE', 'zawalid.com']].map((c, i) => t(i * 222, 256, c[0], 'jb faint', 10, 'letter-spacing:.12em') + t(i * 222, 276, c[1], 'in ink', 13.5)).join('')}
 `, '.cur{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}', ['IS', 'ISI', 'IN', 'JB']);
 // ---------- work rows
 const rows = [
-  { n: '01', name: 'Apropos', tag: 'A command palette for the Mac', d: ['Every menu command of the app in front, one hotkey away.', 'Native, local-first and keyboard first.'], ics: ['swift', 'apple'], meta: 'OPEN SOURCE &#183; EARLY', img: 'apropos.jpg' },
-  { n: '02', name: 'Lopper', tag: 'Git cleanup for the Mac', d: ['Finds merged branches and leftover agent worktrees,', 'shows why each is safe, and undoes for 30 days.'], ics: ['swift', 'git', 'apple'], meta: 'OPEN SOURCE', img: 'lopper.jpg' },
-  { n: '03', name: 'FormaTeX', tag: 'LaTeX to PDF, as an editor and an API', d: ['Browser editor, REST API and MCP server. Smart Compile', 'repairs the LaTeX errors that language models write.'], ics: ['nextdotjs', 'postgresql', 'redis', 'docker', 'modelcontextprotocol'], meta: '1,200+ USERS', img: 'formatex.jpg' },
-  { n: '04', name: 'TekCircle', tag: 'B2B IT talent marketplace', d: ['Offer to invoice for freelancers, firms and clients: contracts,', 'activity reports, AI matching and natural-language search.'], ics: ['reactrouter', 'express', 'mysql', 'socketdotio', 'typescript'], meta: 'PRIVATE WORK &#183; 400+ ROUTES', wire: true },
-  { n: '05', name: 'Finareo', tag: 'AI-assisted financial audit', d: ['AI anomaly detection (200+ rules), the Nexo CFO copilot,', 'ERP integrations, and market benchmarking with alerts.'], ics: ['django', 'postgresql', 'redis', 'temporal', 'qdrant'], meta: 'PRIVATE WORK &#183; 200+ RULES', wire: true },
+  { n: '01', name: 'Rimline', tag: 'Trackpad edges as controls for the Mac', d: ['Slide the edges for volume and brightness, tap the corners,', 'snap windows. Native, local-only, no account.'], ics: ['swift', 'apple'], meta: 'V1.0 &#183; WAITLIST OPEN', img: 'rimline.jpg' },
+  { n: '02', name: 'Apropos', tag: 'A command palette for the Mac', d: ['Every menu command of the app in front, one hotkey away.', 'Native, local-first and keyboard first.'], ics: ['swift', 'apple'], meta: 'OPEN SOURCE &#183; EARLY', img: 'apropos.jpg' },
+  { n: '03', name: 'Lopper', tag: 'Git cleanup for the Mac', d: ['Finds merged branches and leftover agent worktrees,', 'shows why each is safe, and undoes for 30 days.'], ics: ['swift', 'git', 'apple'], meta: 'OPEN SOURCE', img: 'lopper.jpg' },
+  { n: '04', name: 'FormaTeX', tag: 'LaTeX to PDF, as an editor and an API', d: ['Browser editor, REST API and MCP server. Smart Compile', 'repairs the LaTeX errors that language models write.'], ics: ['nextdotjs', 'postgresql', 'redis', 'docker', 'modelcontextprotocol'], meta: '1,200+ USERS', img: 'formatex.jpg' },
+  { n: '05', name: 'TekCircle', tag: 'B2B IT talent marketplace', d: ['Offer to invoice for freelancers, firms and clients: contracts,', 'activity reports, AI matching and natural-language search.'], ics: ['reactrouter', 'express', 'mysql', 'socketdotio', 'typescript'], meta: 'PRIVATE WORK &#183; 400+ ROUTES', wire: true },
+  { n: '06', name: 'Finareo', tag: 'AI-assisted financial audit', d: ['AI anomaly detection (200+ rules), the Nexo CFO copilot,', 'ERP integrations, and market benchmarking with alerts.'], ics: ['django', 'postgresql', 'redis', 'temporal', 'qdrant'], meta: 'PRIVATE WORK &#183; 200+ RULES', wire: true },
 ];
 function wire(x, y, w, h) {
   return `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="7" class="tint"/><rect x="${x + .5}" y="${y + .5}" width="${w - 1}" height="${h - 1}" rx="6.5" class="rs"/>

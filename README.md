@@ -1,9 +1,10 @@
-<img src="assets/masthead.svg?v=2" width="100%" alt="Walid Zakan, full stack and DevOps developer, Rabat, Morocco">
+<img src="assets/masthead.svg?v=3" width="100%" alt="Walid Zakan, full stack and DevOps developer, Rabat, Morocco">
 
 <img src="assets/numbers.svg" width="100%" alt="GitHub activity numbers, updated daily, and production numbers">
 
 ## Selected work
 
+<p><a href="https://rimline.zawalid.com"><img src="assets/work-rimline.svg" width="100%" alt="Rimline: trackpad edges as controls for the Mac"></a></p>
 <p><a href="https://github.com/Zawalid/Apropos"><img src="assets/work-apropos.svg" width="100%" alt="Apropos: a command palette for the Mac"></a></p>
 <p><a href="https://github.com/Zawalid/Lopper"><img src="assets/work-lopper.svg" width="100%" alt="Lopper: git cleanup for the Mac"></a></p>
 <p><a href="https://formatex.io"><img src="assets/work-formatex.svg" width="100%" alt="FormaTeX: LaTeX to PDF, as an editor and an API"></a></p>

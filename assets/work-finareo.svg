@@ -4,7 +4,7 @@
 .is{font-family:'IS',Georgia,serif}.isi{font-family:'IS',Georgia,serif;font-style:italic}.in{font-family:'IN',system-ui,sans-serif}.jb{font-family:'JB',ui-monospace,monospace}
 .c0{fill:var(--l0)}.c1{fill:var(--l1)}.c2{fill:var(--l2)}.c3{fill:var(--l3)}.c4{fill:var(--l4)}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><line x1="0" y1="0.5" x2="888" y2="0.5" class="rl"/>
-<text x="0" y="44" class="jb acc" style="font-size:11px;letter-spacing:.1em">05</text>
+<text x="0" y="44" class="jb acc" style="font-size:11px;letter-spacing:.1em">06</text>
 <text x="44" y="50" class="is ink" style="font-size:36px;letter-spacing:-.8px">Finareo</text>
 <text x="44" y="76" class="in ink" style="font-size:14.5px;font-weight:500">AI-assisted financial audit</text>
 <text x="44" y="98" class="in mute" style="font-size:13px;">AI anomaly detection (200+ rules), the Nexo CFO copilot,</text><text x="44" y="115" class="in mute" style="font-size:13px;">ERP integrations, and market benchmarking with alerts.</text>
