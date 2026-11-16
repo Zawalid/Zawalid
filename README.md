@@ -11,7 +11,7 @@
 <p><a href="https://www.zawalid.com/projects/tekcircle"><img src="assets/work-tekcircle.svg" width="100%" alt="TekCircle: B2B IT talent marketplace, private work"></a></p>
 <p><a href="https://finareo.io"><img src="assets/work-finareo.svg" width="100%" alt="Finareo: AI-assisted financial audit, private work"></a></p>
 
-More at [zawalid.com/projects](https://www.zawalid.com/projects).
+More at [zawalid.com/projects](https://www.zawalid.com/projects). The Mac apps, with install steps and releases, are together at [mac.zawalid.com](https://mac.zawalid.com).
 
 ## Practice
 
