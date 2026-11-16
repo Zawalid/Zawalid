@@ -16,7 +16,7 @@ ${[['FOCUS', 'Web platforms, AI, infrastructure'], ['STACK', 'TypeScript, Python
 `, '.cur{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}', ['IS', 'ISI', 'IN', 'JB']);
 // ---------- work rows
 const rows = [
-  { n: '01', name: 'Rimline', tag: 'Trackpad edges as controls for the Mac', d: ['Slide the edges for volume and brightness, tap the corners,', 'snap windows. Native, local-only, no account.'], ics: ['swift', 'apple'], meta: 'V1.0 &#183; WAITLIST OPEN', img: 'rimline.jpg' },
+  { n: '01', name: 'Rimline', tag: 'Trackpad edges as controls for the Mac', d: ['Slide the edges for volume and brightness, tap the corners,', 'snap windows. Native, local-only, no account.'], ics: ['swift', 'apple'], meta: 'FREE 3-DAY TRIAL &#183; $9 ONCE', img: 'rimline.jpg' },
   { n: '02', name: 'Apropos', tag: 'A command palette for the Mac', d: ['Every menu command of the app in front, one hotkey away.', 'Native, local-first and keyboard first.'], ics: ['swift', 'apple'], meta: 'OPEN SOURCE &#183; EARLY', img: 'apropos.jpg' },
   { n: '03', name: 'Lopper', tag: 'Git cleanup for the Mac', d: ['Finds merged branches and leftover agent worktrees,', 'shows why each is safe, and undoes for 30 days.'], ics: ['swift', 'git', 'apple'], meta: 'OPEN SOURCE', img: 'lopper.jpg' },
   { n: '04', name: 'FormaTeX', tag: 'LaTeX to PDF, as an editor and an API', d: ['Browser editor, REST API and MCP server. Smart Compile', 'repairs the LaTeX errors that language models write.'], ics: ['nextdotjs', 'postgresql', 'redis', 'docker', 'modelcontextprotocol'], meta: '1,200+ USERS', img: 'formatex.jpg' },
