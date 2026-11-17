@@ -42,4 +42,4 @@ More at [zawalid.com/projects](https://www.zawalid.com/projects). The Mac apps, 
 
 ## Contact
 
-[zawalid.com](https://www.zawalid.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/zakan-walid/) &nbsp;/&nbsp; [walid.zakan@gmail.com](mailto:walid.zakan@gmail.com)
+[zawalid.com](https://www.zawalid.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/zakan-walid/) &nbsp;/&nbsp; [hello@zawalid.com](mailto:hello@zawalid.com)
